@@ -48,7 +48,7 @@ Denna hemsida är byggd med semantiska HTML-element för att göra receptet lät
 ![Färdiga kanelbullar](sandbox:/mnt/data/A_plate_of_freshly_baked_Swedish_cinnamon_buns_(ka.png?_chatgptios_conversationID=f7b862fb-3446-4aa3-b7b8-ed1c0791cbe6&_chatgptios_messageID=b6986171-2629-4f8c-9353-9c2857506acc)
 
 ### Kanelbullar på en plåt
-![Kanelbullar på en plåt](sandbox:/mnt/data/Swedish_cinnamon_buns_(kanelbullar?_chatgptios_conversationID=f7b862fb-3446-4aa3-b7b8-ed1c0791cbe6&_chatgptios_messageID=b6986171-2629-4f8c-9353-9c2857506acc)_arranged_on_a_.png)
+![Kanelbullar på en plåt](./Färdigt-kanelbullar.webp)
 
 ## Kontakt
 
