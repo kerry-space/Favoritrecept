@@ -59,6 +59,6 @@ Email: kerry@example.com
 
 1. Klona detta repository:
     ```sh
-    git clone git@github.com:kerry-space/Favoritrecept.git
+    git clone https://github.com/kerry-space/Favoritrecept
     ```
 2. Öppna `index.html` i din webbläsare för att se hemsidan.
